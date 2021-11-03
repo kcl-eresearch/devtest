@@ -1,0 +1,13 @@
+Hi team,
+
+The index/news pages are currently independent. It would be good to refactor them to inherit a common template.
+See the below articles for help:
+ - https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
+ - https://jinja.palletsprojects.com/en/2.10.x/templates/#template-inheritance
+
+ Ideally we would have everything except the main content area in a "base.html" and then just override that in index/news.
+ Also we'll need a block for the <title>.
+
+ No rush!
+
+ -Sky
