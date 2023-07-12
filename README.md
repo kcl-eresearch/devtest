@@ -1,10 +1,10 @@
 Developer test
 ===
 
-Welcome to the King's e-research developer test.
+Welcome to the King's e-research Operations Engineer test.
 We have a Flask application here (under the "devtest" folder) and a few support tickets (under the "tickets" folder).
 Have a look in the "tickets" folder, there you will find your tasks to complete.
-Once you have completed the tickets, please either zip this folder and send it to me (Skylar) or send a diff.
+Once you have completed the tickets, please either zip this folder and send it to me (Stuart) or send a diff.
 
 How to run the application
 ====
